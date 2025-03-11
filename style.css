@@ -106,7 +106,7 @@ article > h2 {
 
 .picture {
     display: block;
-    margin: 0 auto;
+    text-align: center;
     width: 100%;
     max-width: 100%;
 }
@@ -206,7 +206,7 @@ footer {
     }
 
     .picture img {
-        width: 100%; 
+        max-width: 80%; 
         height: auto;  
     }
 
